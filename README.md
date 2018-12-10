@@ -37,8 +37,8 @@ UML
 <img width="300" src="https://user-images.githubusercontent.com/37032956/49747754-75df1800-fce7-11e8-919b-fabe77c2a821.PNG">
 
 You can choose your gun shot speed.
-1 is fastest shot speed so 1 is easier to hit enemy.
-3 is slowest shot try it! XD
+One 1 is fastest shot speed so 1 is easier to hit enemy.
+Three 3 is slowest shot try it! XD
 
 <img width="450" src="https://user-images.githubusercontent.com/37032956/49747753-75df1800-fce7-11e8-8058-6f201d6179ec.PNG">
 
