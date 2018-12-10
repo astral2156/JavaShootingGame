@@ -1,12 +1,31 @@
 # JavaShootingGame
 
 
-##Galaga Shooting Game using Java.
+## Galaga Shooting Game using Java.
+
+## We upgrade Java Galaga game.
+## Just download it and play fun :)
+## 
+
+## Table Of Contents
+
+- [Execution Environment](#execution-environment)
+- [Execution Screen](#class-information)
+- [Class Information](#class-information)
+- [How to Play](#how-to-play)
+- [To Do List](#to-do-list)
+
+## Execution Environment
+
+Eclipse 4.8.0 Version
+Windows 10
+
+
+## Execution Screen
 
 
 
-
-Class Information
+## Class Information
 
 - AlienSprite
   - Make enemy and they move
