@@ -15,13 +15,21 @@ Just download it and play fun :)
 - [How to Play](#how-to-play)
 - [To Do List](#to-do-list)
 
+
+
+
+
 ## Execution Environment
 
 Eclipse 4.8.0 Version
 Windows 10
 
 
+
+
 ## Execution Screen
+
+
 
 
 
@@ -61,11 +69,20 @@ Windows 10
   
   
   
+## How To Play
+
+↑, ↓, →, ←   :  To move
+SPACE BAR    :  To attack
 
 
 
 
-## To do List
 
+## To Do List
+
+- [x] Merging complete
 - [ ] NullPointer Error
 - [ ] After writting name game restart Error
+
+
+
