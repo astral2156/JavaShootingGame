@@ -14,7 +14,7 @@ Just download it and play fun :)
 - [Class Information](#class-information)
 - [How to Play](#how-to-play)
 - [To Do List](#to-do-list)
-
+- [Contact](#contact)
 
 
 
@@ -86,3 +86,6 @@ SPACE BAR    :  To attack
 
 
 
+## Contact
+
+email : kdy_1406@hanmail.net
