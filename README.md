@@ -1,11 +1,11 @@
 # JavaShootingGame
 
 
-## Galaga Shooting Game using Java.
+Galaga Shooting Game using Java.
 
-## We upgrade Java Galaga game.
-## Just download it and play fun :)
-## 
+We upgrade Java Galaga game.
+Just download it and play fun :)
+ 
 
 ## Table Of Contents
 
