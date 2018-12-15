@@ -97,8 +97,13 @@ SPACE BAR    :  To attack
 ## To Do List
 
 - [x] Merging complete
-- [ ] NullPointer Error
-- [ ] After writting name game restart Error
+- [x] NullPointer Error
+- [x] After writting name, restart Error
+- [x] Score load fixed
+- [x] Bgm play issue fixed
+- [x] Difficulty error fixed
+
+
 
 
 
