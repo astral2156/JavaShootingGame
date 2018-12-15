@@ -40,11 +40,11 @@ You can choose your gun shot speed.
 One 1 is fastest shot speed so 1 is easier to hit enemy.
 Three 3 is slowest shot try it! XD
 
-<img width="500" src="https://user-images.githubusercontent.com/37032956/49747753-75df1800-fce7-11e8-8058-6f201d6179ec.PNG">
+<img width="500" src="https://user-images.githubusercontent.com/37032956/50040422-703a5700-0086-11e9-92cb-87880b0a23ab.PNG">
 
 Game play screen
 
-<img width="300" src="https://user-images.githubusercontent.com/37032956/49747755-7677ae80-fce7-11e8-92d7-9c14a47a8599.PNG">
+<img width="300" src="https://user-images.githubusercontent.com/37032956/50040423-703a5700-0086-11e9-95cc-543863044f5a.PNG">
 
 You can insert your name and save it!
 
